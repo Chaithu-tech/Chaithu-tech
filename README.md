@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there!  I'm Chaithanya Gavvala
 
-<!--
-**Chaithu-tech/Chaithu-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java developer from India, currently living in Germany. I have a strong interest in technology and enjoy diving deep into the world of backend development. My primary programming language is **Java**, and I have experience in building robust backend applications.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java
+- **Backend Developemnt**: Spring Boot, Microservices Architecture
+- **API Development**: REST APIs
+- **Devops & Tools**: Docker, CI/CD (Continuous Integration/Continuous Deployment), AWS
+- **Cloud**: Certified in AWS (Amazon Web Services)
+- **Build Tools**: Maven 
+  
