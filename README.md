@@ -7,6 +7,7 @@ I'm a passionate Java developer from India, currently living in Germany. I have 
 - **Languages**: Java
 - **Backend Developemnt**: Spring Boot, Microservices Architecture
 - **API Development**: REST APIs
+- **Databases**: MySQL, PostgreSQL
 - **Devops & Tools**: Docker, CI/CD (Continuous Integration/Continuous Deployment), AWS
 - **Cloud**: Certified in AWS (Amazon Web Services)
 - **Build Tools**: Maven 
